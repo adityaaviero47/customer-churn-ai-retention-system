@@ -1,0 +1,3 @@
+experiment_group,customers,churned,retained,churn_rate,retention_rate
+Control,170,64,106,0.3764705882352941,0.6235294117647059
+Treatment,178,60,118,0.33707865168539325,0.6629213483146067

@@ -1,0 +1,11 @@
+KPI,Value
+At-risk customers,348.0
+Critical customers,12.0
+High-risk customers,107.0
+Moderate-risk customers,229.0
+Intervention coverage,0.348
+Monthly revenue of at-risk users,75794.0
+Monthly revenue associated with churned at-risk users,25831.0
+Hypothetical 10% revenue recovery,2583.1000000000004
+Hypothetical 20% revenue recovery,5166.200000000001
+Hypothetical 30% revenue recovery,7749.299999999999

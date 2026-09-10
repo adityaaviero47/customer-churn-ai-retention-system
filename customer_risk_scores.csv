@@ -1,0 +1,1001 @@
+user_id,churn_probability,risk_segment,session_count,last_login_days,monthly_spend,features_used,payment_failures,plan_type,actual_churn,recommended_action,priority
+1873,0.9306654,Critical,1,30,0,1,0,Free,0,Re-engagement campaign,P1 - Immediate
+2750,0.8482777,Critical,1,30,299,1,0,Basic,1,Personalized re-engagement campaign,P1 - Immediate
+3632,0.8213036,Critical,3,30,0,4,0,Free,0,Re-engagement campaign,P1 - Immediate
+2313,0.81262857,Critical,1,22,0,1,1,Free,0,Re-engagement campaign,P1 - Immediate
+4158,0.8102866,Critical,1,30,0,2,0,Free,1,Re-engagement campaign,P1 - Immediate
+1359,0.79868805,Critical,3,30,0,2,0,Free,1,Re-engagement campaign,P1 - Immediate
+127,0.7977444,Critical,1,21,499,1,0,Premium,1,Priority personal re-engagement,P1 - Immediate
+4189,0.79717135,Critical,4,22,299,3,0,Basic,1,Personalized re-engagement campaign,P1 - Immediate
+1983,0.71971756,Critical,3,25,299,5,0,Basic,1,Personalized re-engagement campaign,P1 - Immediate
+1378,0.7151727,Critical,2,22,299,3,0,Basic,1,Personalized re-engagement campaign,P1 - Immediate
+3796,0.7024464,Critical,3,16,0,1,2,Free,1,Re-engagement campaign,P1 - Immediate
+707,0.70147365,Critical,3,21,499,6,0,Premium,1,Priority personal re-engagement,P1 - Immediate
+4715,0.6803636,High,3,16,0,1,1,Free,1,Early engagement campaign,P2 - High
+1555,0.6766693,High,1,25,0,4,0,Free,1,Early engagement campaign,P2 - High
+2970,0.6712772,High,4,25,299,1,0,Basic,1,Early engagement campaign,P2 - High
+720,0.670902,High,4,30,0,4,0,Free,1,Early engagement campaign,P2 - High
+2942,0.66957986,High,5,10,299,4,1,Basic,1,Early engagement campaign,P2 - High
+4485,0.6683007,High,3,23,0,4,0,Free,0,Early engagement campaign,P2 - High
+4656,0.66096574,High,1,27,0,6,0,Free,0,Early engagement campaign,P2 - High
+3571,0.66022605,High,3,23,499,4,0,Premium,1,Early engagement campaign,P2 - High
+292,0.6601604,High,2,13,499,2,4,Premium,1,Early engagement campaign,P2 - High
+3649,0.64894444,High,1,23,499,3,0,Premium,0,Early engagement campaign,P2 - High
+570,0.64475095,High,4,29,0,1,0,Free,1,Early engagement campaign,P2 - High
+38,0.64240456,High,3,20,299,1,0,Basic,0,Early engagement campaign,P2 - High
+3714,0.63642263,High,4,21,299,3,0,Basic,1,Early engagement campaign,P2 - High
+2968,0.6362403,High,1,22,299,2,0,Basic,0,Early engagement campaign,P2 - High
+740,0.6317194,High,2,10,0,1,1,Free,0,Early engagement campaign,P2 - High
+457,0.63028157,High,1,26,0,4,0,Free,0,Early engagement campaign,P2 - High
+2976,0.62711495,High,4,23,0,1,0,Free,0,Early engagement campaign,P2 - High
+616,0.6267309,High,1,12,0,8,1,Free,1,Early engagement campaign,P2 - High
+4625,0.62454003,High,1,29,0,1,0,Free,1,Early engagement campaign,P2 - High
+3989,0.6128559,High,2,24,499,8,0,Premium,1,Early engagement campaign,P2 - High
+2244,0.60960954,High,4,10,0,1,0,Free,1,Early engagement campaign,P2 - High
+611,0.60928196,High,3,25,299,7,0,Basic,1,Early engagement campaign,P2 - High
+1291,0.60791373,High,4,23,299,1,0,Basic,0,Early engagement campaign,P2 - High
+2086,0.6043318,High,4,26,299,1,0,Basic,0,Early engagement campaign,P2 - High
+1458,0.5994766,High,3,22,499,2,1,Premium,1,Early engagement campaign,P2 - High
+4665,0.5960864,High,3,12,0,8,0,Free,0,Early engagement campaign,P2 - High
+3265,0.59434944,High,4,21,0,3,0,Free,1,Early engagement campaign,P2 - High
+1155,0.58291656,High,3,28,299,8,0,Basic,0,Early engagement campaign,P2 - High
+2028,0.58172005,High,2,25,0,6,0,Free,0,Early engagement campaign,P2 - High
+4464,0.5783711,High,2,23,0,1,0,Free,1,Early engagement campaign,P2 - High
+3172,0.5774523,High,4,25,0,8,1,Free,1,Early engagement campaign,P2 - High
+4936,0.5747039,High,3,24,0,6,1,Free,0,Early engagement campaign,P2 - High
+3886,0.5743283,High,5,25,0,1,0,Free,1,Early engagement campaign,P2 - High
+2185,0.57387674,High,5,24,299,1,0,Basic,1,Early engagement campaign,P2 - High
+2344,0.5731719,High,3,26,499,1,0,Premium,1,Early engagement campaign,P2 - High
+2496,0.5689699,High,2,28,0,1,0,Free,1,Early engagement campaign,P2 - High
+4839,0.5673687,High,5,28,0,1,0,Free,0,Early engagement campaign,P2 - High
+1599,0.56100786,High,5,20,299,1,1,Basic,1,Early engagement campaign,P2 - High
+2070,0.5608796,High,3,12,0,5,0,Free,0,Early engagement campaign,P2 - High
+3340,0.5586639,High,4,16,0,1,0,Free,1,Early engagement campaign,P2 - High
+667,0.55524594,High,4,12,0,4,0,Free,1,Early engagement campaign,P2 - High
+582,0.55368984,High,3,24,499,8,0,Premium,1,Early engagement campaign,P2 - High
+3937,0.55317086,High,3,24,0,4,1,Free,1,Early engagement campaign,P2 - High
+4735,0.55307513,High,3,20,499,6,0,Premium,1,Early engagement campaign,P2 - High
+1159,0.5441286,High,3,11,0,4,0,Free,0,Early engagement campaign,P2 - High
+832,0.54150194,High,5,23,499,3,0,Premium,1,Early engagement campaign,P2 - High
+4466,0.538847,High,2,21,299,5,0,Basic,0,Early engagement campaign,P2 - High
+3833,0.5370449,High,5,13,299,2,0,Basic,1,Early engagement campaign,P2 - High
+2048,0.53631514,High,3,13,499,2,1,Premium,1,Early engagement campaign,P2 - High
+1487,0.53388315,High,1,18,499,5,0,Premium,0,Early engagement campaign,P2 - High
+2825,0.5338188,High,5,10,299,2,0,Basic,1,Early engagement campaign,P2 - High
+2682,0.5254016,High,4,16,499,2,0,Premium,0,Early engagement campaign,P2 - High
+4237,0.5252164,High,5,25,0,2,0,Free,0,Early engagement campaign,P2 - High
+915,0.52419037,High,3,25,499,4,1,Premium,1,Early engagement campaign,P2 - High
+3420,0.52335256,High,3,29,499,4,0,Premium,0,Early engagement campaign,P2 - High
+491,0.52059126,High,1,27,0,2,0,Free,0,Early engagement campaign,P2 - High
+2201,0.5158786,High,2,23,0,2,0,Free,1,Early engagement campaign,P2 - High
+4039,0.50162554,High,5,24,499,6,0,Premium,1,Early engagement campaign,P2 - High
+2922,0.5013187,High,1,24,299,1,0,Basic,0,Early engagement campaign,P2 - High
+2033,0.49708384,High,2,13,299,1,0,Basic,1,Early engagement campaign,P2 - High
+2691,0.49401605,High,4,30,299,5,1,Basic,0,Early engagement campaign,P2 - High
+4090,0.49115112,High,4,24,499,6,0,Premium,0,Early engagement campaign,P2 - High
+4343,0.49097025,High,5,14,499,4,0,Premium,0,Early engagement campaign,P2 - High
+4688,0.48928544,High,5,16,299,4,0,Basic,0,Early engagement campaign,P2 - High
+3130,0.486045,High,1,20,299,6,0,Basic,0,Early engagement campaign,P2 - High
+4717,0.48450124,High,6,12,299,3,0,Basic,1,Product engagement campaign,P2 - High
+3579,0.48311678,High,5,12,0,7,0,Free,0,Early engagement campaign,P2 - High
+4298,0.48211432,High,5,13,0,3,0,Free,1,Early engagement campaign,P2 - High
+1709,0.47921234,High,9,12,0,1,0,Free,0,Product engagement campaign,P2 - High
+309,0.47627473,High,6,15,299,7,1,Basic,0,Product engagement campaign,P2 - High
+995,0.46887055,High,18,12,299,1,0,Basic,1,Product engagement campaign,P2 - High
+4185,0.46310526,High,18,11,299,6,2,Basic,0,Product engagement campaign,P2 - High
+2173,0.46284938,High,5,17,299,4,0,Basic,0,Early engagement campaign,P2 - High
+4920,0.45627406,High,6,10,0,1,0,Free,1,Product engagement campaign,P2 - High
+3005,0.45536894,High,2,20,0,6,0,Free,1,Early engagement campaign,P2 - High
+695,0.45492807,High,1,20,0,5,0,Free,1,Early engagement campaign,P2 - High
+3879,0.45426682,High,9,13,0,1,0,Free,0,Product engagement campaign,P2 - High
+3960,0.45033035,High,6,11,0,7,2,Free,0,Product engagement campaign,P2 - High
+4473,0.44935742,High,3,19,299,7,1,Basic,1,Early engagement campaign,P2 - High
+1855,0.44866222,High,3,19,0,3,0,Free,1,Early engagement campaign,P2 - High
+3595,0.4457767,High,3,28,499,6,0,Premium,0,Early engagement campaign,P2 - High
+3299,0.4452036,High,15,10,299,4,1,Basic,1,Product engagement campaign,P2 - High
+2770,0.44404498,High,11,12,299,2,0,Basic,0,Product engagement campaign,P2 - High
+2550,0.4428407,High,20,12,299,1,0,Basic,0,Product engagement campaign,P2 - High
+3447,0.43898866,High,5,14,0,1,0,Free,1,Early engagement campaign,P2 - High
+3624,0.4375412,High,14,10,299,4,1,Basic,0,Product engagement campaign,P2 - High
+3996,0.436494,High,19,10,299,8,0,Basic,0,Product engagement campaign,P2 - High
+1389,0.4340176,High,2,13,299,3,0,Basic,1,Early engagement campaign,P2 - High
+4892,0.42995086,High,3,18,0,8,0,Free,0,Early engagement campaign,P2 - High
+4078,0.42898396,High,15,10,499,3,0,Premium,0,Product engagement campaign,P2 - High
+2808,0.42773837,High,19,11,299,1,0,Basic,1,Product engagement campaign,P2 - High
+1099,0.4275754,High,13,13,299,3,1,Basic,1,Product engagement campaign,P2 - High
+4222,0.42347518,High,2,10,499,4,3,Premium,0,Early engagement campaign,P2 - High
+4440,0.4213905,High,16,12,0,1,1,Free,1,Product engagement campaign,P2 - High
+842,0.419294,High,35,7,499,7,1,Premium,0,Product engagement campaign,P2 - High
+2577,0.4178275,High,4,29,0,2,0,Free,1,Early engagement campaign,P2 - High
+2581,0.41421777,High,11,10,0,6,2,Free,0,Product engagement campaign,P2 - High
+3916,0.4119442,High,12,12,299,3,0,Basic,0,Product engagement campaign,P2 - High
+931,0.4106773,High,9,10,499,1,0,Premium,0,Product engagement campaign,P2 - High
+4528,0.41012123,High,2,12,299,2,0,Basic,0,Early engagement campaign,P2 - High
+3694,0.40967137,High,11,10,299,5,1,Basic,0,Product engagement campaign,P2 - High
+2396,0.40962884,High,5,20,0,3,0,Free,1,Early engagement campaign,P2 - High
+3968,0.4079334,High,9,13,299,4,0,Basic,0,Product engagement campaign,P2 - High
+4271,0.4061973,High,5,18,299,3,0,Basic,0,Early engagement campaign,P2 - High
+3178,0.4047063,High,11,13,299,6,2,Basic,1,Product engagement campaign,P2 - High
+4511,0.40434027,High,3,18,499,5,0,Premium,0,Early engagement campaign,P2 - High
+3250,0.4025046,High,10,12,0,3,0,Free,1,Product engagement campaign,P2 - High
+1421,0.3989767,Moderate,2,26,499,2,0,Premium,0,Feature discovery campaign,P3 - Medium
+1731,0.398358,Moderate,15,10,499,2,0,Premium,1,Product education campaign,P3 - Medium
+3644,0.39249265,Moderate,11,13,0,2,0,Free,0,Product education campaign,P3 - Medium
+1694,0.3922684,Moderate,9,12,0,3,0,Free,1,Product education campaign,P3 - Medium
+4544,0.3916052,Moderate,12,15,0,2,1,Free,0,Feature discovery campaign,P3 - Medium
+337,0.39156944,Moderate,14,10,0,3,0,Free,1,Product education campaign,P3 - Medium
+3748,0.39099067,Moderate,13,10,0,1,0,Free,0,Product education campaign,P3 - Medium
+1498,0.3902312,Moderate,2,13,0,2,0,Free,0,Product education campaign,P3 - Medium
+47,0.38935512,Moderate,18,15,299,2,0,Basic,1,Feature discovery campaign,P3 - Medium
+1003,0.38904324,Moderate,15,12,299,3,0,Basic,1,Product education campaign,P3 - Medium
+4111,0.3886212,Moderate,15,10,0,3,0,Free,0,Product education campaign,P3 - Medium
+1386,0.38827753,Moderate,11,13,0,3,0,Free,0,Product education campaign,P3 - Medium
+573,0.3881822,Moderate,8,13,299,4,0,Basic,0,Product education campaign,P3 - Medium
+4144,0.3878671,Moderate,9,13,499,1,2,Premium,0,Product education campaign,P3 - Medium
+2994,0.3870301,Moderate,13,10,0,3,0,Free,0,Product education campaign,P3 - Medium
+2305,0.38654572,Moderate,2,20,299,4,0,Basic,0,Feature discovery campaign,P3 - Medium
+1070,0.38632548,Moderate,1,16,299,1,0,Basic,0,Feature discovery campaign,P3 - Medium
+3277,0.3857001,Moderate,19,11,299,4,0,Basic,0,Product education campaign,P3 - Medium
+269,0.38444078,Moderate,4,18,499,4,0,Premium,0,Feature discovery campaign,P3 - Medium
+4963,0.38396114,Moderate,10,13,0,3,0,Free,0,Product education campaign,P3 - Medium
+2735,0.38388482,Moderate,11,13,0,4,1,Free,0,Product education campaign,P3 - Medium
+2899,0.38383093,Moderate,19,12,299,7,1,Basic,0,Product education campaign,P3 - Medium
+3884,0.38277572,Moderate,6,15,499,3,1,Premium,0,Feature discovery campaign,P3 - Medium
+2782,0.3794583,Moderate,1,16,299,4,0,Basic,0,Feature discovery campaign,P3 - Medium
+4662,0.37815055,Moderate,7,12,299,4,0,Basic,0,Product education campaign,P3 - Medium
+1455,0.3774158,Moderate,15,9,499,6,1,Premium,0,Product education campaign,P3 - Medium
+1896,0.37544063,Moderate,15,9,499,2,1,Premium,0,Product education campaign,P3 - Medium
+2256,0.37203482,Moderate,7,13,299,3,0,Basic,0,Product education campaign,P3 - Medium
+2089,0.37195945,Moderate,16,10,299,1,0,Basic,0,Product education campaign,P3 - Medium
+3707,0.37115252,Moderate,15,13,299,2,0,Basic,0,Product education campaign,P3 - Medium
+2074,0.37051874,Moderate,3,20,0,3,3,Free,0,Feature discovery campaign,P3 - Medium
+4816,0.36716458,Moderate,13,11,0,4,2,Free,1,Product education campaign,P3 - Medium
+42,0.36195806,Moderate,1,16,0,5,2,Free,0,Feature discovery campaign,P3 - Medium
+1362,0.3617386,Moderate,17,10,0,5,2,Free,1,Product education campaign,P3 - Medium
+1780,0.35933074,Moderate,8,13,299,5,0,Basic,0,Product education campaign,P3 - Medium
+3572,0.35933074,Moderate,8,13,299,5,0,Basic,1,Product education campaign,P3 - Medium
+4264,0.35872644,Moderate,6,15,0,8,0,Free,0,Feature discovery campaign,P3 - Medium
+4854,0.35799006,Moderate,13,12,299,6,0,Basic,1,Product education campaign,P3 - Medium
+1092,0.35769477,Moderate,2,14,299,4,2,Basic,1,Feature discovery campaign,P3 - Medium
+3675,0.35680336,Moderate,16,10,0,5,1,Free,0,Product education campaign,P3 - Medium
+3313,0.3540083,Moderate,7,13,299,4,0,Basic,0,Product education campaign,P3 - Medium
+2987,0.35329714,Moderate,11,15,0,2,0,Free,1,Feature discovery campaign,P3 - Medium
+4100,0.34733844,Moderate,3,20,299,3,3,Basic,1,Feature discovery campaign,P3 - Medium
+4179,0.346149,Moderate,9,13,299,6,1,Basic,0,Product education campaign,P3 - Medium
+3094,0.34546924,Moderate,18,10,0,2,1,Free,0,Product education campaign,P3 - Medium
+283,0.3435288,Moderate,17,15,499,1,0,Premium,0,Feature discovery campaign,P3 - Medium
+2076,0.3435288,Moderate,17,15,499,1,0,Premium,0,Feature discovery campaign,P3 - Medium
+1931,0.3425861,Moderate,13,15,299,3,1,Basic,0,Feature discovery campaign,P3 - Medium
+411,0.34045118,Moderate,11,15,0,3,0,Free,1,Feature discovery campaign,P3 - Medium
+351,0.33875352,Moderate,1,11,299,5,0,Basic,1,Product education campaign,P3 - Medium
+4915,0.336805,Moderate,14,15,499,2,1,Premium,1,Feature discovery campaign,P3 - Medium
+3038,0.33602917,Moderate,16,15,299,2,0,Basic,1,Feature discovery campaign,P3 - Medium
+1768,0.3346575,Moderate,3,29,0,6,0,Free,0,Feature discovery campaign,P3 - Medium
+4977,0.33141983,Moderate,12,12,0,5,0,Free,0,Product education campaign,P3 - Medium
+1204,0.33060804,Moderate,5,12,0,6,3,Free,0,Product education campaign,P3 - Medium
+4678,0.3305092,Moderate,7,10,0,2,0,Free,0,Product education campaign,P3 - Medium
+721,0.3284247,Moderate,15,10,299,6,0,Basic,0,Product education campaign,P3 - Medium
+4541,0.32800066,Moderate,15,12,0,3,0,Free,0,Product education campaign,P3 - Medium
+284,0.3278467,Moderate,8,13,0,3,1,Free,1,Product education campaign,P3 - Medium
+2044,0.32775843,Moderate,6,3,299,4,1,Basic,0,Product education campaign,P3 - Medium
+4953,0.32654983,Moderate,14,10,499,2,1,Premium,1,Product education campaign,P3 - Medium
+4595,0.32610905,Moderate,18,14,299,3,0,Basic,1,Feature discovery campaign,P3 - Medium
+3293,0.3260887,Moderate,12,12,499,2,2,Premium,1,Product education campaign,P3 - Medium
+1084,0.32544282,Moderate,15,9,499,4,0,Premium,1,Product education campaign,P3 - Medium
+3456,0.32514945,Moderate,12,11,0,4,0,Free,0,Product education campaign,P3 - Medium
+4170,0.32492888,Moderate,1,11,0,3,0,Free,1,Product education campaign,P3 - Medium
+1669,0.3235559,Moderate,14,15,499,2,0,Premium,0,Feature discovery campaign,P3 - Medium
+1422,0.32256767,Moderate,14,12,0,3,0,Free,0,Product education campaign,P3 - Medium
+181,0.32143995,Moderate,15,13,499,4,0,Premium,0,Product education campaign,P3 - Medium
+462,0.32077688,Moderate,12,10,0,6,0,Free,0,Product education campaign,P3 - Medium
+1273,0.31829435,Moderate,19,12,299,6,0,Basic,0,Product education campaign,P3 - Medium
+3327,0.31755164,Moderate,16,10,499,5,0,Premium,1,Product education campaign,P3 - Medium
+1679,0.31730813,Moderate,15,13,0,2,0,Free,1,Product education campaign,P3 - Medium
+3782,0.31664965,Moderate,18,14,299,5,0,Basic,0,Feature discovery campaign,P3 - Medium
+471,0.3158205,Moderate,16,12,0,7,0,Free,0,Product education campaign,P3 - Medium
+878,0.31325153,Moderate,13,15,0,1,0,Free,0,Feature discovery campaign,P3 - Medium
+1678,0.3126522,Moderate,6,15,0,5,0,Free,0,Feature discovery campaign,P3 - Medium
+1883,0.31028503,Moderate,17,3,0,8,0,Free,0,Product education campaign,P3 - Medium
+1885,0.30985376,Moderate,11,15,299,4,0,Basic,1,Feature discovery campaign,P3 - Medium
+2852,0.3090017,Moderate,11,15,0,5,0,Free,0,Feature discovery campaign,P3 - Medium
+4377,0.30867234,Moderate,15,13,0,3,0,Free,1,Product education campaign,P3 - Medium
+1312,0.30818656,Moderate,19,3,0,8,0,Free,0,Product education campaign,P3 - Medium
+23,0.3076435,Moderate,12,15,499,2,1,Premium,0,Feature discovery campaign,P3 - Medium
+3079,0.30343813,Moderate,16,14,0,3,2,Free,0,Feature discovery campaign,P3 - Medium
+3791,0.30216163,Moderate,9,15,0,4,0,Free,0,Feature discovery campaign,P3 - Medium
+4046,0.30158183,Moderate,14,13,0,4,0,Free,0,Product education campaign,P3 - Medium
+1382,0.30135867,Moderate,16,11,499,2,0,Premium,0,Product education campaign,P3 - Medium
+3689,0.30048874,Moderate,19,10,0,4,1,Free,1,Product education campaign,P3 - Medium
+3857,0.2995815,Moderate,18,10,499,5,0,Premium,0,Product education campaign,P3 - Medium
+4470,0.2995187,Moderate,12,15,0,4,0,Free,0,Feature discovery campaign,P3 - Medium
+1889,0.29839617,Moderate,18,7,0,7,2,Free,0,Product education campaign,P3 - Medium
+3284,0.29817322,Moderate,6,14,499,4,0,Premium,0,Feature discovery campaign,P3 - Medium
+3789,0.2974417,Moderate,17,10,299,1,0,Basic,1,Product education campaign,P3 - Medium
+1949,0.29725817,Moderate,15,8,499,4,1,Premium,0,Product education campaign,P3 - Medium
+2523,0.29529497,Moderate,16,14,499,4,0,Premium,0,Feature discovery campaign,P3 - Medium
+1187,0.29474446,Moderate,12,12,499,7,0,Premium,1,Product education campaign,P3 - Medium
+1775,0.29309785,Moderate,16,12,499,3,1,Premium,0,Product education campaign,P3 - Medium
+2653,0.2921555,Moderate,19,10,0,5,0,Free,0,Product education campaign,P3 - Medium
+2,0.29188013,Moderate,9,15,299,1,0,Basic,0,Feature discovery campaign,P3 - Medium
+4407,0.29084504,Moderate,11,14,299,3,0,Basic,0,Feature discovery campaign,P3 - Medium
+4800,0.29081157,Moderate,18,9,299,6,0,Basic,0,Product education campaign,P3 - Medium
+4297,0.28969452,Moderate,11,11,499,2,0,Premium,1,Product education campaign,P3 - Medium
+3430,0.28934938,Moderate,16,13,499,4,0,Premium,1,Product education campaign,P3 - Medium
+3439,0.2884855,Moderate,8,10,0,6,0,Free,0,Product education campaign,P3 - Medium
+1737,0.28816855,Moderate,10,15,0,5,1,Free,1,Feature discovery campaign,P3 - Medium
+4883,0.2880229,Moderate,16,9,499,3,0,Premium,0,Product education campaign,P3 - Medium
+1615,0.28785774,Moderate,13,14,299,3,0,Basic,1,Feature discovery campaign,P3 - Medium
+1496,0.28785607,Moderate,18,7,0,8,0,Free,0,Product education campaign,P3 - Medium
+3626,0.28749368,Moderate,3,18,499,6,3,Premium,0,Feature discovery campaign,P3 - Medium
+3669,0.28668177,Moderate,18,15,299,6,1,Basic,1,Feature discovery campaign,P3 - Medium
+1137,0.2864472,Moderate,18,13,0,7,0,Free,1,Product education campaign,P3 - Medium
+1061,0.28612056,Moderate,10,14,0,1,0,Free,1,Feature discovery campaign,P3 - Medium
+4806,0.28550923,Moderate,18,3,0,7,0,Free,0,Product education campaign,P3 - Medium
+2813,0.28367075,Moderate,13,14,499,1,0,Premium,0,Feature discovery campaign,P3 - Medium
+2806,0.28357133,Moderate,4,19,299,8,0,Basic,0,Feature discovery campaign,P3 - Medium
+4426,0.28080148,Moderate,17,10,0,4,0,Free,1,Product education campaign,P3 - Medium
+1318,0.27553242,Moderate,9,6,299,1,0,Basic,0,Product education campaign,P3 - Medium
+4020,0.27411038,Moderate,20,11,299,3,0,Basic,1,Product education campaign,P3 - Medium
+1848,0.27067,Moderate,6,14,499,6,0,Premium,0,Feature discovery campaign,P3 - Medium
+2864,0.26977217,Moderate,11,14,299,3,1,Basic,0,Feature discovery campaign,P3 - Medium
+3258,0.26817736,Moderate,7,5,299,4,0,Basic,0,Product education campaign,P3 - Medium
+1158,0.26798233,Moderate,17,10,0,3,0,Free,0,Product education campaign,P3 - Medium
+3651,0.26588756,Moderate,8,4,299,4,0,Basic,0,Product education campaign,P3 - Medium
+1229,0.26545694,Moderate,9,7,299,5,0,Basic,0,Product education campaign,P3 - Medium
+1853,0.26388022,Moderate,20,10,299,2,0,Basic,0,Product education campaign,P3 - Medium
+1927,0.26378095,Moderate,11,14,0,5,0,Free,1,Feature discovery campaign,P3 - Medium
+4125,0.26102793,Moderate,7,6,299,1,0,Basic,0,Product education campaign,P3 - Medium
+939,0.26100245,Moderate,19,3,299,7,1,Basic,0,Product education campaign,P3 - Medium
+2149,0.26034623,Moderate,7,6,299,4,1,Basic,0,Product education campaign,P3 - Medium
+2063,0.26013082,Moderate,16,14,0,4,0,Free,0,Feature discovery campaign,P3 - Medium
+2709,0.25990552,Moderate,17,15,0,3,0,Free,0,Feature discovery campaign,P3 - Medium
+2004,0.2597691,Moderate,17,9,299,4,0,Basic,0,Product education campaign,P3 - Medium
+2455,0.25676876,Moderate,13,14,499,2,0,Premium,0,Feature discovery campaign,P3 - Medium
+119,0.25236806,Moderate,18,8,299,3,0,Basic,0,Product education campaign,P3 - Medium
+463,0.25170097,Moderate,8,15,0,4,2,Free,0,Feature discovery campaign,P3 - Medium
+3346,0.25134572,Moderate,6,4,0,5,2,Free,1,Product education campaign,P3 - Medium
+1733,0.2504748,Moderate,8,13,0,5,0,Free,0,Product education campaign,P3 - Medium
+4855,0.25030676,Moderate,7,11,499,3,0,Premium,0,Product education campaign,P3 - Medium
+3046,0.25019845,Moderate,19,3,299,7,0,Basic,0,Product education campaign,P3 - Medium
+2360,0.24969687,Moderate,20,13,0,1,1,Free,0,Product education campaign,P3 - Medium
+2013,0.24935922,Moderate,19,7,299,5,1,Basic,0,Product education campaign,P3 - Medium
+3745,0.24839255,Moderate,9,4,299,2,0,Basic,0,Product education campaign,P3 - Medium
+4602,0.24573176,Moderate,14,14,0,2,0,Free,0,Feature discovery campaign,P3 - Medium
+4089,0.24419829,Moderate,7,5,299,6,1,Basic,0,Product education campaign,P3 - Medium
+109,0.24418089,Moderate,17,6,299,5,1,Basic,0,Product education campaign,P3 - Medium
+138,0.24410324,Moderate,19,10,0,6,0,Free,0,Product education campaign,P3 - Medium
+1822,0.24311553,Moderate,13,10,499,6,1,Premium,0,Product education campaign,P3 - Medium
+3754,0.24196497,Moderate,18,6,299,2,0,Basic,0,Product education campaign,P3 - Medium
+4266,0.2401428,Moderate,8,15,0,3,0,Free,0,Feature discovery campaign,P3 - Medium
+2781,0.24005583,Moderate,8,5,299,4,0,Basic,0,Product education campaign,P3 - Medium
+1264,0.23879422,Moderate,17,9,0,7,1,Free,0,Product education campaign,P3 - Medium
+4457,0.23775303,Moderate,13,15,0,6,0,Free,0,Feature discovery campaign,P3 - Medium
+3269,0.23655848,Moderate,9,7,299,4,0,Basic,1,Product education campaign,P3 - Medium
+3585,0.23408282,Moderate,13,9,299,5,0,Basic,0,Product education campaign,P3 - Medium
+79,0.23395228,Moderate,9,9,299,2,0,Basic,1,Product education campaign,P3 - Medium
+2411,0.23321025,Moderate,17,14,299,3,1,Basic,1,Feature discovery campaign,P3 - Medium
+1939,0.23255596,Moderate,15,3,0,4,0,Free,0,Product education campaign,P3 - Medium
+4157,0.23226775,Moderate,6,6,499,1,1,Premium,0,Product education campaign,P3 - Medium
+2199,0.23186417,Moderate,7,15,299,2,0,Basic,1,Feature discovery campaign,P3 - Medium
+4785,0.2317745,Moderate,14,7,299,4,0,Basic,0,Product education campaign,P3 - Medium
+3037,0.23172134,Moderate,9,4,299,1,0,Basic,0,Product education campaign,P3 - Medium
+1707,0.23123382,Moderate,12,11,299,2,3,Basic,0,Product education campaign,P3 - Medium
+4259,0.23101255,Moderate,19,6,499,7,0,Premium,0,Product education campaign,P3 - Medium
+3740,0.23079765,Moderate,7,15,0,1,0,Free,1,Feature discovery campaign,P3 - Medium
+4074,0.23062982,Moderate,18,5,0,8,0,Free,1,Product education campaign,P3 - Medium
+2596,0.23057099,Moderate,18,14,0,5,0,Free,1,Feature discovery campaign,P3 - Medium
+3409,0.23039307,Moderate,32,1,0,6,1,Free,0,Product education campaign,P3 - Medium
+2945,0.23035248,Moderate,17,11,499,7,0,Premium,1,Product education campaign,P3 - Medium
+4601,0.22968948,Moderate,19,7,299,1,0,Basic,0,Product education campaign,P3 - Medium
+3086,0.22963643,Moderate,16,9,0,1,0,Free,0,Product education campaign,P3 - Medium
+4436,0.22953027,Moderate,17,11,0,3,1,Free,1,Product education campaign,P3 - Medium
+3350,0.2293757,Moderate,19,13,0,4,0,Free,0,Product education campaign,P3 - Medium
+317,0.2293757,Moderate,19,13,0,4,0,Free,1,Product education campaign,P3 - Medium
+837,0.22887984,Moderate,15,3,299,4,0,Basic,0,Product education campaign,P3 - Medium
+3472,0.22887984,Moderate,15,3,299,4,0,Basic,0,Product education campaign,P3 - Medium
+2008,0.22856598,Moderate,15,4,499,1,0,Premium,0,Product education campaign,P3 - Medium
+442,0.22848019,Moderate,18,7,299,1,0,Basic,0,Product education campaign,P3 - Medium
+3362,0.22848019,Moderate,18,7,299,1,0,Basic,0,Product education campaign,P3 - Medium
+4764,0.22818172,Moderate,8,14,299,7,0,Basic,0,Feature discovery campaign,P3 - Medium
+3053,0.2274243,Moderate,15,3,499,4,0,Premium,0,Product education campaign,P3 - Medium
+3584,0.22733587,Moderate,17,13,0,3,0,Free,1,Product education campaign,P3 - Medium
+3665,0.22616825,Moderate,17,3,0,4,1,Free,0,Product education campaign,P3 - Medium
+618,0.22614351,Moderate,15,8,299,1,0,Basic,0,Product education campaign,P3 - Medium
+4727,0.22581719,Moderate,17,11,0,3,0,Free,0,Product education campaign,P3 - Medium
+302,0.2256967,Moderate,14,8,299,5,0,Basic,0,Product education campaign,P3 - Medium
+4674,0.22554901,Moderate,14,7,299,2,0,Basic,0,Product education campaign,P3 - Medium
+1471,0.22471069,Moderate,24,0,0,4,2,Free,0,Product education campaign,P3 - Medium
+2057,0.22398573,Moderate,7,13,0,5,0,Free,1,Product education campaign,P3 - Medium
+2494,0.22258967,Moderate,14,6,499,3,1,Premium,0,Product education campaign,P3 - Medium
+3839,0.22219406,Moderate,17,11,0,7,0,Free,1,Product education campaign,P3 - Medium
+367,0.22179818,Moderate,16,9,0,3,0,Free,0,Product education campaign,P3 - Medium
+996,0.2217239,Moderate,10,9,299,1,0,Basic,0,Product education campaign,P3 - Medium
+2837,0.2217239,Moderate,10,9,299,1,0,Basic,0,Product education campaign,P3 - Medium
+2981,0.22168086,Moderate,17,7,299,5,0,Basic,0,Product education campaign,P3 - Medium
+2509,0.22154976,Moderate,16,8,299,5,0,Basic,0,Product education campaign,P3 - Medium
+2478,0.22063765,Moderate,17,12,499,2,0,Premium,1,Product education campaign,P3 - Medium
+4283,0.21975216,Moderate,7,8,499,3,2,Premium,0,Product education campaign,P3 - Medium
+4904,0.21914655,Moderate,15,14,299,1,0,Basic,0,Feature discovery campaign,P3 - Medium
+1418,0.2169777,Moderate,6,5,299,3,0,Basic,0,Product education campaign,P3 - Medium
+4603,0.21590552,Moderate,17,3,499,8,1,Premium,1,Product education campaign,P3 - Medium
+586,0.21539503,Moderate,17,12,499,4,0,Premium,1,Product education campaign,P3 - Medium
+1898,0.21536909,Moderate,10,3,299,3,0,Basic,0,Product education campaign,P3 - Medium
+3138,0.21519218,Moderate,9,7,499,6,1,Premium,0,Product education campaign,P3 - Medium
+4880,0.21482305,Moderate,24,0,0,6,1,Free,0,Product education campaign,P3 - Medium
+2572,0.21450159,Moderate,15,14,299,7,0,Basic,0,Feature discovery campaign,P3 - Medium
+279,0.21374494,Moderate,31,2,0,5,0,Free,0,Product education campaign,P3 - Medium
+681,0.2125685,Moderate,7,7,299,1,0,Basic,0,Product education campaign,P3 - Medium
+2993,0.2115704,Moderate,15,7,299,2,0,Basic,0,Product education campaign,P3 - Medium
+780,0.20992585,Moderate,6,4,299,2,0,Basic,0,Product education campaign,P3 - Medium
+3077,0.20992096,Moderate,11,6,299,4,0,Basic,1,Product education campaign,P3 - Medium
+21,0.20943367,Moderate,14,9,0,1,1,Free,0,Product education campaign,P3 - Medium
+3807,0.20929147,Moderate,8,6,499,7,1,Premium,0,Product education campaign,P3 - Medium
+1424,0.2092799,Moderate,19,6,299,2,1,Basic,0,Product education campaign,P3 - Medium
+3210,0.20909321,Moderate,16,9,0,2,0,Free,1,Product education campaign,P3 - Medium
+2167,0.20909321,Moderate,16,9,0,2,0,Free,0,Product education campaign,P3 - Medium
+4114,0.20880029,Moderate,15,5,0,5,1,Free,0,Product education campaign,P3 - Medium
+2518,0.20856054,Moderate,36,0,0,7,0,Free,0,Product education campaign,P3 - Medium
+2118,0.20834325,Moderate,15,7,0,8,1,Free,0,Product education campaign,P3 - Medium
+3008,0.20794049,Moderate,11,3,0,7,0,Free,0,Product education campaign,P3 - Medium
+2314,0.20629625,Moderate,19,8,299,3,0,Basic,1,Product education campaign,P3 - Medium
+52,0.2049455,Moderate,14,5,299,4,0,Basic,0,Product education campaign,P3 - Medium
+3233,0.20413902,Moderate,11,7,299,1,0,Basic,0,Product education campaign,P3 - Medium
+762,0.20401411,Moderate,32,2,0,6,0,Free,0,Product education campaign,P3 - Medium
+1175,0.20399271,Moderate,16,3,499,5,2,Premium,0,Product education campaign,P3 - Medium
+4273,0.20312786,Moderate,18,5,299,1,0,Basic,1,Product education campaign,P3 - Medium
+1482,0.20307527,Moderate,15,5,299,2,0,Basic,0,Product education campaign,P3 - Medium
+3922,0.20304032,Moderate,7,14,299,4,0,Basic,1,Feature discovery campaign,P3 - Medium
+2234,0.20296817,Moderate,11,9,299,4,0,Basic,0,Product education campaign,P3 - Medium
+3524,0.20292139,Moderate,13,8,299,1,0,Basic,0,Product education campaign,P3 - Medium
+1510,0.1999155,Healthy,8,11,499,6,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+4242,0.19959421,Healthy,6,3,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1239,0.19910301,Healthy,32,7,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+2258,0.19910301,Healthy,32,7,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+180,0.19785373,Healthy,32,0,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1502,0.19675419,Healthy,7,15,0,4,0,Free,1,Monitor engagement,P4 - Monitor
+4030,0.19643778,Healthy,8,14,0,8,1,Free,0,Monitor engagement,P4 - Monitor
+1530,0.19394973,Healthy,17,3,0,6,1,Free,0,Monitor engagement,P4 - Monitor
+1205,0.19341846,Healthy,8,9,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2065,0.19319709,Healthy,8,12,299,3,3,Basic,0,Monitor engagement,P4 - Monitor
+723,0.19212492,Healthy,31,7,499,1,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4192,0.19193508,Healthy,32,0,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+392,0.19180234,Healthy,13,5,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+809,0.19134918,Healthy,28,7,499,1,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3470,0.19131926,Healthy,36,1,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+898,0.19107936,Healthy,17,4,299,4,1,Basic,1,Monitor engagement,P4 - Monitor
+458,0.1894277,Healthy,16,6,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+4996,0.18918405,Healthy,19,7,299,2,0,Basic,1,Monitor engagement,P4 - Monitor
+4666,0.18569687,Healthy,19,9,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1930,0.18545252,Healthy,18,4,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+1928,0.18435907,Healthy,16,5,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4093,0.18366186,Healthy,6,9,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+1251,0.18319651,Healthy,9,8,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+3865,0.18287857,Healthy,6,3,499,1,1,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+2977,0.18261383,Healthy,14,8,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3616,0.18245453,Healthy,9,4,0,3,0,Free,1,Monitor engagement,P4 - Monitor
+3076,0.18243822,Healthy,11,6,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+1874,0.18179768,Healthy,11,8,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+4024,0.1813077,Healthy,11,9,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2698,0.17987956,Healthy,6,6,299,6,0,Basic,1,Monitor engagement,P4 - Monitor
+3723,0.17981322,Healthy,12,7,0,7,1,Free,0,Monitor engagement,P4 - Monitor
+819,0.17933671,Healthy,9,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+765,0.17921288,Healthy,8,6,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+3641,0.17854963,Healthy,16,7,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+3563,0.17854197,Healthy,10,7,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+1221,0.17781003,Healthy,17,8,299,1,0,Basic,1,Monitor engagement,P4 - Monitor
+4771,0.17520736,Healthy,18,6,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3895,0.17513002,Healthy,13,6,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3798,0.1740385,Healthy,18,3,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+4891,0.1739501,Healthy,16,6,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3596,0.17376432,Healthy,9,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3667,0.17285706,Healthy,20,12,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2091,0.1719776,Healthy,15,3,0,2,0,Free,1,Monitor engagement,P4 - Monitor
+3556,0.17155407,Healthy,11,8,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3187,0.17110847,Healthy,9,6,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4205,0.17050534,Healthy,10,3,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+2202,0.17033565,Healthy,15,8,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1513,0.17032412,Healthy,8,9,0,3,0,Free,1,Monitor engagement,P4 - Monitor
+102,0.16966608,Healthy,10,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+789,0.16958533,Healthy,15,7,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3283,0.16955417,Healthy,36,2,299,8,1,Basic,0,Monitor engagement,P4 - Monitor
+3777,0.16942938,Healthy,18,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+535,0.16932802,Healthy,14,4,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2188,0.16861121,Healthy,8,9,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2714,0.16858773,Healthy,17,5,299,3,0,Basic,1,Monitor engagement,P4 - Monitor
+3443,0.16849513,Healthy,6,8,499,1,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1319,0.16848111,Healthy,17,9,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4978,0.16809288,Healthy,18,4,499,8,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+590,0.16690448,Healthy,25,7,499,3,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4038,0.16617857,Healthy,8,6,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+4609,0.16605312,Healthy,6,9,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+645,0.16552067,Healthy,13,9,0,3,0,Free,1,Monitor engagement,P4 - Monitor
+3966,0.16502503,Healthy,18,6,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1334,0.16467433,Healthy,7,9,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3625,0.16439949,Healthy,16,4,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+149,0.16370928,Healthy,20,13,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4726,0.16345169,Healthy,25,0,299,4,2,Basic,0,Monitor engagement,P4 - Monitor
+2046,0.16339491,Healthy,6,8,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+4451,0.16300792,Healthy,14,5,499,3,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+221,0.16300267,Healthy,32,7,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+4512,0.16139977,Healthy,8,9,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+3762,0.160524,Healthy,12,3,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3493,0.1599266,Healthy,20,13,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+1739,0.15826297,Healthy,15,4,499,2,3,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1774,0.15736923,Healthy,16,7,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2982,0.15659775,Healthy,12,8,299,5,0,Basic,1,Monitor engagement,P4 - Monitor
+1380,0.15583849,Healthy,11,6,0,2,0,Free,1,Monitor engagement,P4 - Monitor
+2767,0.15496702,Healthy,32,3,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3009,0.15401593,Healthy,8,14,0,6,0,Free,1,Monitor engagement,P4 - Monitor
+4797,0.15355305,Healthy,6,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4716,0.15342458,Healthy,15,8,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+1053,0.15330115,Healthy,6,9,0,6,0,Free,1,Monitor engagement,P4 - Monitor
+171,0.15249304,Healthy,8,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1611,0.15244965,Healthy,12,6,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+871,0.15196095,Healthy,19,6,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+4392,0.15140863,Healthy,19,3,499,7,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+2392,0.14953814,Healthy,10,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3835,0.14869535,Healthy,11,5,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+1465,0.14728029,Healthy,20,10,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1681,0.14717415,Healthy,12,9,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+581,0.1469914,Healthy,15,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+985,0.14615335,Healthy,16,8,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3108,0.14591865,Healthy,10,8,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3851,0.14416912,Healthy,6,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1428,0.1438143,Healthy,20,14,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+1683,0.14125307,Healthy,16,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2158,0.14077884,Healthy,6,9,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+441,0.13969964,Healthy,20,8,499,1,3,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+668,0.13940829,Healthy,18,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3643,0.1389594,Healthy,8,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2068,0.13629317,Healthy,11,8,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4198,0.1360871,Healthy,8,4,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+4770,0.13488609,Healthy,11,6,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3142,0.13386904,Healthy,11,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4475,0.13259783,Healthy,19,8,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+1398,0.13256785,Healthy,20,11,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+891,0.13248795,Healthy,11,4,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2540,0.13226916,Healthy,20,7,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1157,0.13218951,Healthy,13,8,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1400,0.13117906,Healthy,15,4,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+1833,0.13092738,Healthy,12,5,0,3,1,Free,1,Monitor engagement,P4 - Monitor
+1632,0.13066503,Healthy,13,4,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+912,0.13066503,Healthy,13,4,0,4,0,Free,1,Monitor engagement,P4 - Monitor
+3718,0.13066188,Healthy,7,8,0,4,0,Free,1,Monitor engagement,P4 - Monitor
+259,0.12935437,Healthy,13,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4430,0.12915964,Healthy,32,4,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+1118,0.12887757,Healthy,6,3,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3487,0.12886077,Healthy,39,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4044,0.12821783,Healthy,19,6,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1292,0.12763909,Healthy,30,7,499,4,2,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+953,0.12682754,Healthy,20,11,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3351,0.12621303,Healthy,11,6,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2828,0.12611924,Healthy,17,3,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1036,0.12549432,Healthy,31,6,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+4758,0.12549432,Healthy,31,6,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1832,0.12540568,Healthy,13,5,0,2,0,Free,1,Monitor engagement,P4 - Monitor
+2506,0.1250038,Healthy,8,5,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2820,0.12488787,Healthy,20,13,499,5,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1963,0.124338865,Healthy,11,4,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4106,0.1236228,Healthy,31,6,0,5,1,Free,1,Monitor engagement,P4 - Monitor
+2529,0.12319825,Healthy,17,4,499,5,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1473,0.12317515,Healthy,20,8,499,4,1,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1156,0.12202462,Healthy,33,1,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+4188,0.12081271,Healthy,20,4,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+347,0.12052301,Healthy,18,5,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1954,0.120131545,Healthy,13,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+389,0.11798969,Healthy,11,5,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4233,0.11660183,Healthy,12,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3129,0.1164108,Healthy,13,4,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1066,0.11570033,Healthy,10,3,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+13,0.1153589,Healthy,11,5,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+553,0.11522856,Healthy,11,8,0,6,0,Free,1,Monitor engagement,P4 - Monitor
+4542,0.11495434,Healthy,33,6,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3115,0.11476703,Healthy,24,0,299,7,1,Basic,0,Monitor engagement,P4 - Monitor
+4376,0.11475875,Healthy,12,6,0,6,1,Free,1,Monitor engagement,P4 - Monitor
+1985,0.11474301,Healthy,11,3,499,1,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+2020,0.11445394,Healthy,16,11,0,3,3,Free,0,Monitor engagement,P4 - Monitor
+18,0.11242805,Healthy,30,7,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3395,0.112246685,Healthy,19,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2323,0.112036355,Healthy,14,4,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2558,0.11164872,Healthy,20,8,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+2359,0.11059019,Healthy,18,4,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+852,0.10976787,Healthy,12,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2620,0.10964275,Healthy,17,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1876,0.108699374,Healthy,30,1,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+963,0.10854079,Healthy,20,6,499,5,1,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+4288,0.108257525,Healthy,12,8,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4072,0.107893206,Healthy,20,4,0,1,2,Free,0,Monitor engagement,P4 - Monitor
+233,0.10774359,Healthy,20,3,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+3604,0.10738276,Healthy,31,1,299,3,1,Basic,0,Monitor engagement,P4 - Monitor
+902,0.1071932,Healthy,17,7,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+2622,0.10698196,Healthy,25,7,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+4895,0.106854334,Healthy,12,4,299,4,3,Basic,0,Monitor engagement,P4 - Monitor
+1717,0.10670089,Healthy,32,5,0,6,0,Free,1,Monitor engagement,P4 - Monitor
+467,0.106460534,Healthy,24,7,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+328,0.10576903,Healthy,20,6,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+1491,0.10576903,Healthy,20,6,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4882,0.10521516,Healthy,25,7,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+797,0.10476781,Healthy,8,3,499,6,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+4789,0.10424538,Healthy,37,4,499,1,1,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1826,0.10392281,Healthy,25,6,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2479,0.10376947,Healthy,12,3,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+1230,0.10303498,Healthy,30,5,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+3755,0.10260296,Healthy,32,6,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3091,0.10142932,Healthy,31,1,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4671,0.10127746,Healthy,31,6,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2273,0.10080999,Healthy,33,7,0,8,2,Free,0,Monitor engagement,P4 - Monitor
+73,0.10010272,Healthy,19,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4238,0.10010272,Healthy,19,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1364,0.10000386,Healthy,21,2,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+3982,0.09979098,Healthy,25,6,499,3,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3366,0.09760285,Healthy,30,5,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2414,0.09760285,Healthy,30,5,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2351,0.09696619,Healthy,33,5,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+2303,0.09663852,Healthy,19,4,0,3,0,Free,1,Monitor engagement,P4 - Monitor
+1572,0.096282154,Healthy,25,7,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3311,0.09604967,Healthy,20,3,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3302,0.09586267,Healthy,25,0,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+646,0.0957829,Healthy,12,3,0,2,2,Free,0,Monitor engagement,P4 - Monitor
+3520,0.09378966,Healthy,36,2,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+39,0.093733095,Healthy,37,0,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+841,0.092652634,Healthy,25,2,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+3813,0.092110425,Healthy,20,9,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+784,0.09110403,Healthy,31,0,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+3007,0.08937381,Healthy,37,2,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1200,0.08930055,Healthy,38,7,499,3,2,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2533,0.0891689,Healthy,26,6,0,1,2,Free,0,Monitor engagement,P4 - Monitor
+1778,0.088309154,Healthy,33,0,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+3353,0.08793597,Healthy,19,3,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1635,0.08634292,Healthy,16,8,299,2,3,Basic,0,Monitor engagement,P4 - Monitor
+1744,0.08611558,Healthy,39,0,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1558,0.08599673,Healthy,28,4,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+4059,0.08527876,Healthy,27,0,0,4,2,Free,0,Monitor engagement,P4 - Monitor
+4162,0.08486747,Healthy,27,5,0,4,2,Free,1,Monitor engagement,P4 - Monitor
+2851,0.0844806,Healthy,20,5,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+5,0.08408717,Healthy,36,5,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+3051,0.08255705,Healthy,36,6,299,4,1,Basic,0,Monitor engagement,P4 - Monitor
+2183,0.08207922,Healthy,40,0,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4094,0.081657566,Healthy,25,1,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+305,0.081052706,Healthy,32,6,0,8,1,Free,0,Monitor engagement,P4 - Monitor
+4660,0.08089217,Healthy,30,7,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4139,0.08066062,Healthy,29,7,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2446,0.079655446,Healthy,27,3,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+249,0.079523966,Healthy,26,1,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1434,0.07941149,Healthy,39,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+415,0.07897233,Healthy,30,2,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+2096,0.07882765,Healthy,32,5,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+1869,0.078754276,Healthy,39,3,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3442,0.07806047,Healthy,34,0,0,6,2,Free,0,Monitor engagement,P4 - Monitor
+4272,0.07780573,Healthy,40,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3880,0.07749456,Healthy,33,5,499,7,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2871,0.077157326,Healthy,37,5,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+2217,0.07626259,Healthy,20,4,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+1225,0.07609779,Healthy,6,8,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+133,0.07599089,Healthy,34,2,0,7,2,Free,0,Monitor engagement,P4 - Monitor
+924,0.07597397,Healthy,21,7,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2213,0.07494204,Healthy,26,3,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+1904,0.07441881,Healthy,31,1,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+3846,0.074064046,Healthy,39,5,0,7,2,Free,0,Monitor engagement,P4 - Monitor
+3476,0.07392119,Healthy,24,7,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2753,0.07303463,Healthy,28,7,299,3,1,Basic,0,Monitor engagement,P4 - Monitor
+2084,0.072878525,Healthy,22,0,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+3400,0.07276422,Healthy,25,2,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+2189,0.07269427,Healthy,32,6,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+4633,0.07262256,Healthy,24,1,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+4776,0.07169361,Healthy,21,0,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+4337,0.07131591,Healthy,25,5,0,6,1,Free,0,Monitor engagement,P4 - Monitor
+4940,0.07021772,Healthy,37,1,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+528,0.06973274,Healthy,37,4,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+103,0.06942485,Healthy,31,3,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+2669,0.069137596,Healthy,29,1,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+4709,0.068704545,Healthy,33,1,0,4,1,Free,0,Monitor engagement,P4 - Monitor
+2612,0.068111405,Healthy,37,4,299,4,2,Basic,0,Monitor engagement,P4 - Monitor
+3388,0.06748883,Healthy,28,7,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+4746,0.06748649,Healthy,25,1,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4061,0.06741687,Healthy,24,1,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+1658,0.067055635,Healthy,25,7,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+696,0.06660308,Healthy,34,7,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4223,0.06651306,Healthy,29,3,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+4795,0.06630375,Healthy,31,7,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3894,0.06620598,Healthy,26,7,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+4752,0.06558241,Healthy,32,3,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+4790,0.06545729,Healthy,24,1,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3515,0.06528639,Healthy,25,7,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+4305,0.065070346,Healthy,39,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4619,0.065070346,Healthy,39,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+606,0.06475621,Healthy,33,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1840,0.06466019,Healthy,31,3,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+973,0.064658836,Healthy,40,2,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+2042,0.06459453,Healthy,27,6,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+1773,0.06404941,Healthy,25,6,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+1817,0.06377968,Healthy,35,3,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+2499,0.06377409,Healthy,31,3,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+920,0.063681185,Healthy,35,6,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+577,0.06355552,Healthy,32,2,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1619,0.06324754,Healthy,37,3,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+4332,0.063232064,Healthy,27,5,0,7,0,Free,0,Monitor engagement,P4 - Monitor
+557,0.06288349,Healthy,24,5,299,4,1,Basic,0,Monitor engagement,P4 - Monitor
+57,0.06267038,Healthy,28,7,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+2821,0.06233119,Healthy,32,3,299,5,0,Basic,1,Monitor engagement,P4 - Monitor
+2755,0.06223214,Healthy,34,3,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+4268,0.06209237,Healthy,28,6,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+4707,0.062070232,Healthy,38,0,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+4769,0.061550744,Healthy,36,1,499,5,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3780,0.061387338,Healthy,23,6,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+1001,0.061370276,Healthy,24,6,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3001,0.061063867,Healthy,24,7,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+4921,0.060668714,Healthy,21,3,299,4,2,Basic,0,Monitor engagement,P4 - Monitor
+905,0.060563404,Healthy,24,6,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+817,0.06052584,Healthy,27,6,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3805,0.06004554,Healthy,24,6,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+1969,0.059983443,Healthy,25,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+945,0.059408583,Healthy,25,4,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+4459,0.05935414,Healthy,21,0,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4516,0.058535222,Healthy,26,7,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1582,0.058512248,Healthy,24,6,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+1082,0.058389634,Healthy,31,5,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+4076,0.058389634,Healthy,31,5,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+4154,0.057886507,Healthy,39,4,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4401,0.05784375,Healthy,30,5,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+714,0.057646163,Healthy,30,2,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+2066,0.05742988,Healthy,36,0,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3815,0.057223912,Healthy,35,5,499,8,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4295,0.057008367,Healthy,32,1,0,2,0,Free,1,Monitor engagement,P4 - Monitor
+550,0.056789987,Healthy,25,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2301,0.05675497,Healthy,24,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4539,0.05641654,Healthy,32,7,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+3300,0.056343544,Healthy,38,0,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+2332,0.056219496,Healthy,27,4,299,6,1,Basic,0,Monitor engagement,P4 - Monitor
+1600,0.056131713,Healthy,24,7,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+190,0.055625573,Healthy,38,3,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2087,0.05552643,Healthy,31,4,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3309,0.05535103,Healthy,40,5,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+4760,0.055111,Healthy,24,5,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+3294,0.054856427,Healthy,40,2,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3349,0.05450543,Healthy,33,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4901,0.054445606,Healthy,25,0,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+1416,0.054312684,Healthy,30,6,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+676,0.054113377,Healthy,28,7,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+3197,0.05408991,Healthy,32,7,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+650,0.05396323,Healthy,34,0,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+3102,0.05357535,Healthy,31,4,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+3746,0.053446557,Healthy,31,1,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+1161,0.05334505,Healthy,21,1,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+3735,0.05280936,Healthy,40,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+688,0.052456234,Healthy,33,3,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+934,0.05212925,Healthy,24,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3819,0.051866464,Healthy,30,6,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+4217,0.051855557,Healthy,36,4,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4634,0.05164116,Healthy,24,5,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+1723,0.051622584,Healthy,33,0,499,7,3,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3414,0.05160581,Healthy,33,6,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+980,0.051450115,Healthy,25,5,0,2,1,Free,1,Monitor engagement,P4 - Monitor
+2198,0.051121455,Healthy,28,5,0,4,1,Free,0,Monitor engagement,P4 - Monitor
+3543,0.051112805,Healthy,21,7,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+382,0.05109046,Healthy,31,6,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+2425,0.051086344,Healthy,30,6,299,4,1,Basic,0,Monitor engagement,P4 - Monitor
+3069,0.0504872,Healthy,27,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1027,0.050474744,Healthy,23,7,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1042,0.050442215,Healthy,38,7,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1735,0.050413772,Healthy,39,6,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+1809,0.050259765,Healthy,27,5,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+86,0.050232597,Healthy,26,6,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2919,0.05020569,Healthy,25,5,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+2531,0.050102293,Healthy,24,3,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+4846,0.049880818,Healthy,36,6,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4549,0.049846273,Healthy,33,7,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+1508,0.04974867,Healthy,19,7,0,2,3,Free,1,Monitor engagement,P4 - Monitor
+4700,0.049711954,Healthy,32,6,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+3485,0.049703628,Healthy,25,5,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1064,0.049665455,Healthy,35,2,299,8,1,Basic,0,Monitor engagement,P4 - Monitor
+744,0.049462426,Healthy,21,5,0,4,1,Free,0,Monitor engagement,P4 - Monitor
+2388,0.049412902,Healthy,26,7,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+2798,0.04921342,Healthy,36,0,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+661,0.04900617,Healthy,35,0,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+2894,0.04897329,Healthy,33,2,499,5,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4095,0.048954416,Healthy,31,4,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+793,0.048954416,Healthy,31,4,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3535,0.04893728,Healthy,20,3,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1994,0.048867386,Healthy,27,4,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2733,0.04856839,Healthy,21,3,299,2,2,Basic,0,Monitor engagement,P4 - Monitor
+1235,0.04848378,Healthy,26,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3200,0.048445772,Healthy,24,4,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+2643,0.048413437,Healthy,30,1,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3529,0.048233803,Healthy,30,5,0,4,1,Free,1,Monitor engagement,P4 - Monitor
+2205,0.04815573,Healthy,20,4,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1839,0.04783806,Healthy,37,7,0,4,2,Free,0,Monitor engagement,P4 - Monitor
+293,0.047382925,Healthy,40,0,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+1433,0.047267515,Healthy,32,0,299,1,1,Basic,1,Monitor engagement,P4 - Monitor
+2805,0.047186255,Healthy,30,6,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1882,0.04711281,Healthy,33,6,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+4102,0.046589386,Healthy,38,0,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4703,0.046588305,Healthy,26,4,0,4,1,Free,0,Monitor engagement,P4 - Monitor
+2638,0.046317875,Healthy,33,2,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2816,0.04603564,Healthy,32,0,0,1,0,Free,1,Monitor engagement,P4 - Monitor
+2170,0.045865804,Healthy,31,1,299,2,0,Basic,1,Monitor engagement,P4 - Monitor
+4712,0.045865804,Healthy,31,1,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+3575,0.045793947,Healthy,35,6,499,4,2,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3672,0.045766536,Healthy,21,7,0,4,1,Free,0,Monitor engagement,P4 - Monitor
+3471,0.045764726,Healthy,24,6,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+135,0.04574451,Healthy,25,4,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+168,0.045486674,Healthy,30,1,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+1395,0.04541858,Healthy,26,7,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+3090,0.045131,Healthy,32,4,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+1369,0.04508116,Healthy,24,6,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4165,0.045014404,Healthy,40,4,0,7,1,Free,0,Monitor engagement,P4 - Monitor
+4358,0.044855237,Healthy,37,6,0,8,0,Free,0,Monitor engagement,P4 - Monitor
+220,0.04478274,Healthy,28,3,499,8,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1597,0.044728175,Healthy,27,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1922,0.04471634,Healthy,29,1,0,4,0,Free,1,Monitor engagement,P4 - Monitor
+338,0.04467657,Healthy,21,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+732,0.04467207,Healthy,27,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4829,0.04467207,Healthy,27,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+756,0.04441672,Healthy,39,5,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+1836,0.044001658,Healthy,26,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2917,0.04394152,Healthy,37,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4959,0.04394152,Healthy,37,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3957,0.04375903,Healthy,25,2,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+211,0.043567944,Healthy,38,1,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+4596,0.043328695,Healthy,37,2,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+4524,0.04326012,Healthy,24,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3883,0.043251783,Healthy,26,5,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+2311,0.043235585,Healthy,26,5,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3506,0.043217745,Healthy,33,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4304,0.04297958,Healthy,30,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3551,0.042963233,Healthy,27,5,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+2155,0.04295851,Healthy,26,0,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+3568,0.042734794,Healthy,21,6,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4821,0.04268371,Healthy,27,7,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+3437,0.042428195,Healthy,25,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3911,0.04231257,Healthy,25,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+1594,0.041904863,Healthy,22,7,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+957,0.041621014,Healthy,32,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+4621,0.04161367,Healthy,21,2,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+2554,0.041575957,Healthy,28,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1280,0.04153692,Healthy,40,0,499,8,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4966,0.041510634,Healthy,33,2,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+3248,0.041498978,Healthy,37,3,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+2925,0.041350983,Healthy,37,1,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+838,0.041237153,Healthy,29,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1022,0.04122545,Healthy,23,3,0,1,2,Free,1,Monitor engagement,P4 - Monitor
+2524,0.041201018,Healthy,31,2,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1454,0.040718555,Healthy,38,5,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3676,0.040366508,Healthy,23,0,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1825,0.040366508,Healthy,23,0,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4330,0.040366508,Healthy,23,0,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+217,0.040350202,Healthy,26,3,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+4610,0.040306002,Healthy,28,2,499,1,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3802,0.040191084,Healthy,39,3,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+4980,0.040156856,Healthy,23,6,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2693,0.03987068,Healthy,28,5,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+234,0.03972707,Healthy,38,4,499,3,2,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+501,0.039679363,Healthy,33,6,299,5,0,Basic,1,Monitor engagement,P4 - Monitor
+4693,0.039368186,Healthy,27,2,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3424,0.039257143,Healthy,32,4,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4587,0.039252862,Healthy,24,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2229,0.03897616,Healthy,29,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+772,0.03869429,Healthy,32,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1685,0.038658615,Healthy,31,3,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4676,0.03853227,Healthy,27,4,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3240,0.03789301,Healthy,21,3,299,6,0,Basic,1,Monitor engagement,P4 - Monitor
+1450,0.03747883,Healthy,34,5,0,5,1,Free,0,Monitor engagement,P4 - Monitor
+4779,0.037454184,Healthy,32,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4481,0.03743601,Healthy,32,4,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+2232,0.037416123,Healthy,37,3,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+232,0.037116773,Healthy,33,6,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+3343,0.036995806,Healthy,28,5,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+489,0.03675292,Healthy,23,0,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+1601,0.036583774,Healthy,33,6,299,6,1,Basic,0,Monitor engagement,P4 - Monitor
+2224,0.036494028,Healthy,33,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2527,0.03631961,Healthy,24,4,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2768,0.03631961,Healthy,24,4,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+431,0.036151987,Healthy,23,6,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3684,0.03583139,Healthy,27,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1410,0.035827775,Healthy,21,2,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2328,0.035827775,Healthy,21,2,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3354,0.03576027,Healthy,27,5,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+3180,0.035657432,Healthy,38,7,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+189,0.035629775,Healthy,28,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2617,0.035629775,Healthy,28,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+4592,0.035536937,Healthy,23,3,499,1,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4036,0.035342608,Healthy,26,0,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3864,0.03533034,Healthy,33,0,499,4,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+862,0.035325218,Healthy,32,1,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+669,0.035309758,Healthy,38,3,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+1025,0.03451666,Healthy,22,6,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4364,0.034282595,Healthy,39,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2848,0.034214273,Healthy,39,4,299,4,1,Basic,0,Monitor engagement,P4 - Monitor
+736,0.034134053,Healthy,21,7,299,2,0,Basic,1,Monitor engagement,P4 - Monitor
+2011,0.03410897,Healthy,27,4,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1374,0.03390869,Healthy,31,0,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1490,0.0337067,Healthy,36,7,499,2,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+3226,0.032941867,Healthy,22,4,0,6,1,Free,0,Monitor engagement,P4 - Monitor
+602,0.03262577,Healthy,30,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3678,0.032490153,Healthy,35,4,0,5,0,Free,0,Monitor engagement,P4 - Monitor
+4862,0.03233876,Healthy,30,5,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+639,0.03233205,Healthy,22,0,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+1063,0.032302197,Healthy,36,6,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+1494,0.03222206,Healthy,22,6,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1545,0.032216586,Healthy,22,5,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+1385,0.032002263,Healthy,39,5,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2692,0.03189787,Healthy,40,6,299,8,0,Basic,0,Monitor engagement,P4 - Monitor
+3770,0.031819902,Healthy,35,1,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+239,0.03159589,Healthy,26,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+142,0.03159589,Healthy,26,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4194,0.03147995,Healthy,25,4,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4503,0.0314217,Healthy,28,3,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+1313,0.031386938,Healthy,26,1,299,8,1,Basic,0,Monitor engagement,P4 - Monitor
+4690,0.03138185,Healthy,27,0,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+4620,0.031146709,Healthy,30,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4211,0.030978372,Healthy,21,7,299,2,3,Basic,0,Monitor engagement,P4 - Monitor
+788,0.030921726,Healthy,30,4,299,1,0,Basic,1,Monitor engagement,P4 - Monitor
+927,0.030870652,Healthy,27,3,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4879,0.03069568,Healthy,38,6,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4581,0.030600065,Healthy,28,4,0,3,0,Free,1,Monitor engagement,P4 - Monitor
+1294,0.030600065,Healthy,28,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4109,0.030450422,Healthy,22,2,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2238,0.030421237,Healthy,37,1,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3067,0.030364934,Healthy,26,0,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+908,0.030361481,Healthy,33,5,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2726,0.030338654,Healthy,25,2,499,1,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+1525,0.03011413,Healthy,32,4,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1083,0.03006123,Healthy,35,0,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2881,0.030002343,Healthy,29,1,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2182,0.029887524,Healthy,23,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4300,0.029742246,Healthy,21,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1302,0.029582174,Healthy,26,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3904,0.029572403,Healthy,22,3,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+466,0.029535968,Healthy,34,6,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+3976,0.029396445,Healthy,32,5,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+2131,0.029379975,Healthy,38,7,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2690,0.029291034,Healthy,38,1,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4051,0.029259797,Healthy,28,1,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+786,0.029200675,Healthy,40,4,0,6,1,Free,0,Monitor engagement,P4 - Monitor
+1028,0.02918879,Healthy,26,1,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4220,0.02918879,Healthy,26,1,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1024,0.0291414,Healthy,34,0,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3938,0.029051175,Healthy,39,6,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+37,0.0290123,Healthy,23,2,299,7,0,Basic,0,Monitor engagement,P4 - Monitor
+761,0.02866949,Healthy,28,1,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+1055,0.028660897,Healthy,31,5,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3786,0.028598724,Healthy,23,7,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4385,0.028525282,Healthy,21,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+2916,0.028358603,Healthy,25,6,0,1,4,Free,0,Monitor engagement,P4 - Monitor
+3611,0.028227217,Healthy,29,5,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1180,0.02819774,Healthy,34,5,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+3436,0.028092828,Healthy,30,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+636,0.027736513,Healthy,22,5,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2191,0.027736513,Healthy,22,5,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1497,0.02757381,Healthy,26,3,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+709,0.027281087,Healthy,40,4,0,3,1,Free,0,Monitor engagement,P4 - Monitor
+585,0.026671551,Healthy,23,1,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3298,0.026656194,Healthy,26,0,0,2,0,Free,1,Monitor engagement,P4 - Monitor
+3421,0.026530962,Healthy,35,4,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+4349,0.026489878,Healthy,39,5,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+2347,0.026434954,Healthy,22,7,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+1411,0.026411511,Healthy,29,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1818,0.026411511,Healthy,29,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4400,0.026270928,Healthy,40,0,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+4402,0.026162796,Healthy,37,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2110,0.02601613,Healthy,36,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+4133,0.025975006,Healthy,27,6,0,4,4,Free,0,Monitor engagement,P4 - Monitor
+1420,0.025601588,Healthy,29,3,499,1,0,Premium,1,Loyalty / upsell opportunity,P4 - Monitor
+3347,0.025486818,Healthy,23,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1745,0.025486818,Healthy,23,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3110,0.025429087,Healthy,29,1,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3445,0.025362216,Healthy,38,3,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+1432,0.02515528,Healthy,33,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3972,0.02500922,Healthy,30,5,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3117,0.02499232,Healthy,35,7,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3850,0.024710907,Healthy,35,6,299,4,1,Basic,0,Monitor engagement,P4 - Monitor
+1185,0.024692396,Healthy,22,6,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+1062,0.024464741,Healthy,30,5,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+2132,0.02442955,Healthy,22,2,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4632,0.024383867,Healthy,27,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+600,0.024383867,Healthy,27,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2712,0.024382602,Healthy,38,6,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3753,0.024290713,Healthy,29,0,299,4,0,Basic,0,Monitor engagement,P4 - Monitor
+3318,0.024242805,Healthy,37,3,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+303,0.02416103,Healthy,30,4,299,2,0,Basic,1,Monitor engagement,P4 - Monitor
+4962,0.024134763,Healthy,34,6,0,1,1,Free,0,Monitor engagement,P4 - Monitor
+3751,0.023903329,Healthy,35,4,299,3,1,Basic,0,Monitor engagement,P4 - Monitor
+751,0.023881154,Healthy,23,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3397,0.023520734,Healthy,35,7,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+2270,0.023497416,Healthy,26,0,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3990,0.023497416,Healthy,26,0,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3560,0.023483027,Healthy,35,2,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3843,0.023467558,Healthy,39,4,499,2,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3814,0.023275267,Healthy,37,6,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2097,0.023035187,Healthy,29,3,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+2075,0.022852484,Healthy,33,4,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2005,0.022789491,Healthy,22,4,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+2282,0.022660464,Healthy,23,4,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+4003,0.022599116,Healthy,35,2,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2538,0.022599116,Healthy,35,2,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+4841,0.022572014,Healthy,28,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1661,0.022544753,Healthy,38,7,0,6,0,Free,0,Monitor engagement,P4 - Monitor
+2720,0.022413291,Healthy,38,3,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+1339,0.02232988,Healthy,23,5,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+3514,0.022279127,Healthy,27,1,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+2702,0.022218196,Healthy,34,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+2892,0.021939611,Healthy,35,2,299,6,2,Basic,0,Monitor engagement,P4 - Monitor
+1414,0.021582946,Healthy,28,6,499,2,3,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4484,0.021293487,Healthy,29,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1005,0.021146659,Healthy,29,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+1881,0.021025967,Healthy,26,0,499,7,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3405,0.020931229,Healthy,23,3,499,5,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2100,0.020897778,Healthy,36,2,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2027,0.020724723,Healthy,26,0,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+2431,0.020667031,Healthy,37,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+2625,0.020625548,Healthy,27,4,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+856,0.020388229,Healthy,36,5,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+531,0.020378964,Healthy,29,1,499,8,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3602,0.0202539,Healthy,34,1,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+545,0.020176923,Healthy,23,4,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+3002,0.020132216,Healthy,33,3,299,2,1,Basic,0,Monitor engagement,P4 - Monitor
+4284,0.020065458,Healthy,25,5,0,2,4,Free,0,Monitor engagement,P4 - Monitor
+3145,0.019608049,Healthy,22,1,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+2700,0.01947523,Healthy,32,2,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+742,0.019347085,Healthy,31,6,0,4,4,Free,0,Monitor engagement,P4 - Monitor
+1010,0.019069657,Healthy,21,1,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+1297,0.019020006,Healthy,35,3,499,3,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2405,0.019017538,Healthy,38,4,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1507,0.018887717,Healthy,33,4,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+3214,0.018795872,Healthy,39,3,299,3,2,Basic,0,Monitor engagement,P4 - Monitor
+113,0.01837064,Healthy,28,4,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4830,0.018145477,Healthy,35,4,0,4,0,Free,0,Monitor engagement,P4 - Monitor
+3132,0.01799147,Healthy,32,4,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+229,0.017947055,Healthy,40,5,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+961,0.017947055,Healthy,40,5,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+2857,0.017934738,Healthy,39,2,499,4,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3942,0.017934738,Healthy,39,2,499,4,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4668,0.017930925,Healthy,40,4,299,3,0,Basic,0,Monitor engagement,P4 - Monitor
+3432,0.017903095,Healthy,40,6,499,4,1,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4131,0.01773326,Healthy,21,4,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4873,0.017679285,Healthy,35,1,0,2,1,Free,0,Monitor engagement,P4 - Monitor
+482,0.017662838,Healthy,21,1,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+464,0.017644456,Healthy,40,7,299,5,0,Basic,0,Monitor engagement,P4 - Monitor
+1298,0.017080138,Healthy,21,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3650,0.017018797,Healthy,35,0,299,1,0,Basic,1,Monitor engagement,P4 - Monitor
+4730,0.016757898,Healthy,29,1,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1201,0.016631512,Healthy,40,0,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1870,0.016352028,Healthy,34,3,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1249,0.016193867,Healthy,35,1,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1176,0.016117295,Healthy,38,6,299,6,0,Basic,0,Monitor engagement,P4 - Monitor
+1007,0.016021831,Healthy,35,0,299,1,1,Basic,0,Monitor engagement,P4 - Monitor
+1417,0.015973799,Healthy,35,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+3852,0.015973799,Healthy,35,3,0,3,0,Free,0,Monitor engagement,P4 - Monitor
+821,0.015952107,Healthy,39,1,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+572,0.015590358,Healthy,29,3,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1961,0.015348685,Healthy,35,3,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4623,0.015030588,Healthy,35,4,0,1,2,Free,0,Monitor engagement,P4 - Monitor
+4843,0.014931017,Healthy,34,0,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2208,0.014621757,Healthy,27,0,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1051,0.014510957,Healthy,30,0,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+4868,0.014510957,Healthy,30,0,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3054,0.014489008,Healthy,38,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+4246,0.014356322,Healthy,29,2,299,3,4,Basic,0,Monitor engagement,P4 - Monitor
+3141,0.014134701,Healthy,39,0,499,3,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3201,0.013775086,Healthy,35,5,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4985,0.0137014715,Healthy,26,7,0,1,3,Free,0,Monitor engagement,P4 - Monitor
+1182,0.013633865,Healthy,34,6,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+152,0.013414509,Healthy,35,0,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+3131,0.013287648,Healthy,35,4,0,1,0,Free,0,Monitor engagement,P4 - Monitor
+774,0.013228778,Healthy,39,3,499,6,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+883,0.013067266,Healthy,38,2,499,4,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+3548,0.01295264,Healthy,39,2,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+2157,0.012863827,Healthy,35,7,0,2,0,Free,0,Monitor engagement,P4 - Monitor
+1605,0.012186192,Healthy,22,5,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+201,0.011416843,Healthy,39,4,0,6,3,Free,0,Monitor engagement,P4 - Monitor
+3196,0.011403004,Healthy,40,1,299,2,0,Basic,0,Monitor engagement,P4 - Monitor
+4463,0.011116387,Healthy,23,2,499,2,4,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1218,0.010910718,Healthy,34,0,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2737,0.010904363,Healthy,35,0,499,1,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+1162,0.010772025,Healthy,40,2,299,1,0,Basic,0,Monitor engagement,P4 - Monitor
+4098,0.010240992,Healthy,34,1,299,3,3,Basic,0,Monitor engagement,P4 - Monitor
+4683,0.009943415,Healthy,37,2,0,1,3,Free,0,Monitor engagement,P4 - Monitor
+3734,0.008007171,Healthy,22,1,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2009,0.00725764,Healthy,34,5,0,3,4,Free,0,Monitor engagement,P4 - Monitor
+2426,0.005089172,Healthy,35,2,0,4,4,Free,0,Monitor engagement,P4 - Monitor
+4236,0.0048489817,Healthy,40,3,499,2,0,Premium,0,Loyalty / upsell opportunity,P4 - Monitor
+2317,0.0043735635,Healthy,34,1,0,1,3,Free,0,Monitor engagement,P4 - Monitor
