@@ -17,8 +17,8 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = BASE_DIR / "Outputs"
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = BASE_DIR
 RISK_FILE = OUTPUT_DIR / "customer_risk_scores.csv"
 QUEUE_FILE = OUTPUT_DIR / "intervention_queue.csv"
 AB_FILE = OUTPUT_DIR / "ab_test_results.csv"
