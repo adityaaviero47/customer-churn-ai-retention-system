@@ -681,7 +681,7 @@ elif page == "What-If Simulator":
         "Explore how changing the intervention threshold changes workload and churn capture."
     )
 
-      threshold_pct = st.slider(
+    threshold_pct = st.slider(
         "Intervention threshold",
         min_value=5,
         max_value=50,
