@@ -681,14 +681,16 @@ elif page == "What-If Simulator":
         "Explore how changing the intervention threshold changes workload and churn capture."
     )
 
-    threshold = st.slider(
-        "Intervention threshold",
-        min_value=0.05,
-        max_value=0.50,
-        value=0.20,
-        step=0.05,
-        format="%.0f%%",
-    )
+   threshold_pct = st.slider(
+    "Intervention threshold",
+    min_value=5,
+    max_value=50,
+    value=20,
+    step=5,
+    format="%d%%"
+)
+
+threshold = threshold_pct / 100
 
     eligible = risk_df[
         risk_df["churn_probability"] >= threshold
